@@ -1,3 +1,6 @@
+# Idea
+Build a multimodal, conversational AI that can return wikihow style recipes for making Classic French cuisine (in the style of legendary chef Jaques Pepin)
+
 # Steps:
 1. Data acquisation:
 - used data_acquisition/download_videos.py to download youtube videos using yt-dlp
